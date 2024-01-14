@@ -24,7 +24,7 @@
 
 | 도구 | 사용 목적 | 링크 |
 |------|-----------|------|
-| ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white) | 작업 진행 상황 관리 | https://trello.com/b/NlSZ1c5v/bzznbydwecode |
+| ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white) | 작업 진행 상황 관리 |
 | ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white) | 문서화 및 정보 공유 |
 
 ---
