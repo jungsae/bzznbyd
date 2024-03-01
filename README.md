@@ -103,4 +103,4 @@
 | masterLogIn         | 마스터 로그인               |  200   |
 | updateTask          | 테스크 업데이트             |  200   |
 
-자세한 GraphQL 쿼리는 Backend 폴더의 [README.md](https://github.com/jungsae/bzznbyd/blob/main/Backend/README.md) 에 있습니다.
+자세한 GraphQL 쿼리 -> Backend 폴더의 [README.md](https://github.com/jungsae/bzznbyd/blob/main/Backend/README.md) 
